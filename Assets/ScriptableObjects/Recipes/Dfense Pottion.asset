@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8dfb2fa972dcef34e82e3ccd0424fea4, type: 3}
+  m_Name: Dfense Pottion
+  m_EditorClassIdentifier: Assembly-CSharp::ReciipeData
+  recipename: Defense Potion
+  steps:
+  - type: 0
+    ingredient: {fileID: 11400000, guid: 59a6a74ce0a5f3841824011daf6203e5, type: 2}
+  - type: 0
+    ingredient: {fileID: 11400000, guid: f6c9b12ecde8ebd458aff5e28991b9ff, type: 2}
+  - type: 1
+    ingredient: {fileID: 0}
+  - type: 0
+    ingredient: {fileID: 11400000, guid: bfa2c2f3e7bb62944b25afcc81632abd, type: 2}
+  sprite: {fileID: 4113829005332862926, guid: 7e24191975eb0754097e92c48f9af771, type: 3}

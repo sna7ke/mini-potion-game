@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8dfb2fa972dcef34e82e3ccd0424fea4, type: 3}
+  m_Name: HealingPotion
+  m_EditorClassIdentifier: Assembly-CSharp::ReciipeData
+  recipename: healing potion
+  steps:
+  - type: 0
+    ingredient: {fileID: 11400000, guid: c62dd16b6effdbd48b6c86cf927b2843, type: 2}
+  - type: 0
+    ingredient: {fileID: 11400000, guid: 92b02d1b25deaa44784a55592e98a07b, type: 2}
+  - type: 1
+    ingredient: {fileID: 0}
+  sprite: {fileID: 7028616704906629411, guid: c6017ee4e97a0d440a4e435d9ed54a11, type: 3}

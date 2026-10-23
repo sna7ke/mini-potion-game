@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4841ebede21563a449e30a8e382f4bd8, type: 3}
+  m_Name: aloe
+  m_EditorClassIdentifier: Assembly-CSharp::HerbIngredientData
+  ingrediantName: aloe
+  ingrediantprefab: {fileID: 5615229522375401833, guid: 392c9cb8f121eac4086860fa23fa5355, type: 3}
+  grindedHerb: {fileID: 11400000, guid: fcccb1f767409da448e4f28b8876bcb0, type: 2}

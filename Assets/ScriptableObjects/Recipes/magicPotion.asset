@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8dfb2fa972dcef34e82e3ccd0424fea4, type: 3}
+  m_Name: magicPotion
+  m_EditorClassIdentifier: Assembly-CSharp::ReciipeData
+  recipename: Magic Potion
+  steps:
+  - type: 0
+    ingredient: {fileID: 11400000, guid: e2c35d8da3954804887e6a7220bf2c0d, type: 2}
+  - type: 0
+    ingredient: {fileID: 11400000, guid: 340aa54c385f0a54e9e064f5d0401d64, type: 2}
+  - type: 0
+    ingredient: {fileID: 11400000, guid: 6f7626cf8e227cf49a01601635d4000e, type: 2}
+  - type: 1
+    ingredient: {fileID: 0}
+  sprite: {fileID: -4178046375966092550, guid: 8b05180aab12abd4eb51f015053f31bc, type: 3}
